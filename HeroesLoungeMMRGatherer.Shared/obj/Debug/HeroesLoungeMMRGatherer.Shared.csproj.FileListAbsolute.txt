@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\HeroesLoungeMMRGatherer\HeroesLoungeMMRGatherer.Shared\bin\Debug\HeroesLoungeMMRGatherer.Shared.dll
+c:\users\admin\documents\visual studio 2015\Projects\HeroesLoungeMMRGatherer\HeroesLoungeMMRGatherer.Shared\bin\Debug\HeroesLoungeMMRGatherer.Shared.pdb
+c:\users\admin\documents\visual studio 2015\Projects\HeroesLoungeMMRGatherer\HeroesLoungeMMRGatherer.Shared\obj\Debug\HeroesLoungeMMRGatherer.Shared.dll
+c:\users\admin\documents\visual studio 2015\Projects\HeroesLoungeMMRGatherer\HeroesLoungeMMRGatherer.Shared\obj\Debug\HeroesLoungeMMRGatherer.Shared.pdb
+c:\users\admin\documents\visual studio 2015\Projects\HeroesLoungeMMRGatherer\HeroesLoungeMMRGatherer.Shared\bin\Debug\Newtonsoft.Json.dll
+c:\users\admin\documents\visual studio 2015\Projects\HeroesLoungeMMRGatherer\HeroesLoungeMMRGatherer.Shared\bin\Debug\Newtonsoft.Json.xml

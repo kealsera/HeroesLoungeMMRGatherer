@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroesLoungeMMRGatherer", "HeroesLoungeMMRGatherer\HeroesLoungeMMRGatherer.csproj", "{353855F8-DD0A-460B-8ECE-0EDA2A909927}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroesLoungeMMRGatherer.Shared", "HeroesLoungeMMRGatherer.Shared\HeroesLoungeMMRGatherer.Shared.csproj", "{0ECFE2F7-7740-47E1-82FE-556B75838065}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{353855F8-DD0A-460B-8ECE-0EDA2A909927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{353855F8-DD0A-460B-8ECE-0EDA2A909927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{353855F8-DD0A-460B-8ECE-0EDA2A909927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{353855F8-DD0A-460B-8ECE-0EDA2A909927}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0ECFE2F7-7740-47E1-82FE-556B75838065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ECFE2F7-7740-47E1-82FE-556B75838065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ECFE2F7-7740-47E1-82FE-556B75838065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ECFE2F7-7740-47E1-82FE-556B75838065}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
